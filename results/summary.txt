@@ -1,0 +1,12 @@
+                       Date Region  Rainfall(mm)
+count                     2      2      2.000000
+unique                  NaN      1           NaN
+top                     NaN  North           NaN
+freq                    NaN      2           NaN
+mean    2024-01-03 00:00:00    NaN     16.400000
+min     2024-01-01 00:00:00    NaN     12.500000
+25%     2024-01-02 00:00:00    NaN     14.450000
+50%     2024-01-03 00:00:00    NaN     16.400000
+75%     2024-01-04 00:00:00    NaN     18.350000
+max     2024-01-05 00:00:00    NaN     20.300000
+std                     NaN    NaN      5.515433

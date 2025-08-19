@@ -1,0 +1,8 @@
+Date,Rainfall(mm),Region,Note
+2024-01-01, 12.5 ,North,ok
+01/02/2024,NaN,south,error
+2024/01/03,15.0,EAST,ok
+,,West,missing
+2024-01-05,"20,3",north,ok
+junk_row,junk_value,??,not needed
+2024-01-05,"20,3",north,ok
