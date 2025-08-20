@@ -15,8 +15,6 @@ It simulates common real-world data quality issues and walks through fixes with 
 ---
 
 
----
-
 ## 🚀 Workflow Covered
 
 ### 1. Generate Messy Data  
@@ -57,12 +55,17 @@ Check shape, data types, and quick preview.
 ## 📊 Demo Outputs
 
 
-### Cleaned CSV (first 5 rows)
-Date,Region,Rainfall(mm)
-2024-01-01,North,12.5
-2024-01-02,South,15.0
-2024-01-03,East,15.0
-2024-01-05,North,20.3
+### Demo Outputs
+
+**Cleaned CSV (first 5 rows)**
+
+| Date       | Region | Rainfall(mm) |
+|------------|--------|--------------|
+| 2024-01-01 | North  | 12.5         |
+| 2024-01-02 | South  | 15.0         |
+| 2024-01-03 | East   | 15.0         |
+| 2024-01-05 | North  | 20.3         |
+
 
 ---
 
@@ -96,12 +99,12 @@ pandas-data-cleaning-project/
 
 
 ### Summary Statistics  
-See: [`results/summary.txt`](../results/summary.txt)
+See: [`results/summary.txt`](/results/summary.txt)
 
 ### Quick Plot  
 Sanity check rainfall trends across regions:  
 
-![Rainfall Plot](../results/quick_plot.png)
+![Rainfall Plot](/results/quick_plot.png)
 
 ---
 
